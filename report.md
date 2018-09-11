@@ -30,7 +30,7 @@ The two Q-networks are identical in structure:
 
 ### Results achieved
 
-[image1]: ./average_score_per_episode.png "Average score per episode"
+[image1]: (./average_score_per_episode.png) "Average score per episode"
 
 ### Ideas for future work
 
